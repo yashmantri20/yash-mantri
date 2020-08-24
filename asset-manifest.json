@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/yash-mantri/static/css/main.5e9d709a.chunk.css",
+    "main.js": "/yash-mantri/static/js/main.76e4009d.chunk.js",
+    "main.js.map": "/yash-mantri/static/js/main.76e4009d.chunk.js.map",
+    "runtime-main.js": "/yash-mantri/static/js/runtime-main.f00c3fe2.js",
+    "runtime-main.js.map": "/yash-mantri/static/js/runtime-main.f00c3fe2.js.map",
+    "static/js/2.76af480f.chunk.js": "/yash-mantri/static/js/2.76af480f.chunk.js",
+    "static/js/2.76af480f.chunk.js.map": "/yash-mantri/static/js/2.76af480f.chunk.js.map",
+    "static/css/3.4ea14309.chunk.css": "/yash-mantri/static/css/3.4ea14309.chunk.css",
+    "static/js/3.91ddf0a3.chunk.js": "/yash-mantri/static/js/3.91ddf0a3.chunk.js",
+    "static/js/3.91ddf0a3.chunk.js.map": "/yash-mantri/static/js/3.91ddf0a3.chunk.js.map",
+    "static/css/4.6e6255c1.chunk.css": "/yash-mantri/static/css/4.6e6255c1.chunk.css",
+    "static/js/4.b54308a2.chunk.js": "/yash-mantri/static/js/4.b54308a2.chunk.js",
+    "static/js/4.b54308a2.chunk.js.map": "/yash-mantri/static/js/4.b54308a2.chunk.js.map",
+    "index.html": "/yash-mantri/index.html",
+    "precache-manifest.1214cd0906390a9f1cb6fa1f95b3055a.js": "/yash-mantri/precache-manifest.1214cd0906390a9f1cb6fa1f95b3055a.js",
+    "service-worker.js": "/yash-mantri/service-worker.js",
+    "static/css/3.4ea14309.chunk.css.map": "/yash-mantri/static/css/3.4ea14309.chunk.css.map",
+    "static/css/4.6e6255c1.chunk.css.map": "/yash-mantri/static/css/4.6e6255c1.chunk.css.map",
+    "static/css/main.5e9d709a.chunk.css.map": "/yash-mantri/static/css/main.5e9d709a.chunk.css.map",
+    "static/media/index.css": "/yash-mantri/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMail.webp": "/yash-mantri/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/yash-mantri/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/yash-mantri/static/media/manOnTable.52be3144.svg",
+    "static/media/skillNew.svg": "/yash-mantri/static/media/skillNew.bdcaae41.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f00c3fe2.js",
+    "static/js/2.76af480f.chunk.js",
+    "static/css/main.5e9d709a.chunk.css",
+    "static/js/main.76e4009d.chunk.js"
+  ]
+}
